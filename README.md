@@ -6,7 +6,7 @@ Artık blokzincir alanında ilerlemeye ve full stack web3 developer olmak için 
 
 Bana [Twitter](https://twitter.com/ygorkem0 "Twitter Hesabım") dan veya [LinkedIn](https://www.linkedin.com/in/gorkemyavuz/ "Linkedin Hesabım") den de ulaşabilirsiniz.
 
-## Daha Önce Kullandığım Diller ve Kütüphaneler (Hepsine çok hakim değilim fakat kullandığım diller ve kütüphaneler)
+### Daha Önce Kullandığım Diller ve Kütüphaneler (Hepsine çok hakim değilim fakat kullandığım diller ve kütüphaneler)
 - HTML & CSS
    * Bootstrap
 - Javascript
