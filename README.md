@@ -8,10 +8,11 @@ Bana [Twitter](https://twitter.com/ygorkem0 "Twitter Hesabım") dan veya [Linked
 
 ## Daha Önce Kullandığım Diller ve Kütüphaneler (Hepsine çok hakim değilim fakat kullandığım diller ve kütüphaneler)
 - HTML & CSS
+   * Bootstrap
 - Javascript
-  * ReactJS
+   * ReactJS
    * NodeJS
-  * Ethers
+   * Ethers
    * RestAPI
    * SocketIO
 - Python
@@ -20,7 +21,7 @@ Bana [Twitter](https://twitter.com/ygorkem0 "Twitter Hesabım") dan veya [Linked
 - SQL
    * MS SQL
    * PostgreSQL
-  * MySQL
+   * MySQL
 - Solidity
    * ERC20
    * ERC721
