@@ -1,0 +1,1 @@
+Merhabalar, ben Görkem. Yıllardır yazılım ile hobi olarak ilgileniyordum. Fakat 2021 tarihinden itibaren bu alanda ilerlemek istediğime karar verdim ve bu alanda eğitimler almaya başladım. Çalışmalarım genel olarak blokzincir alanında. Amacım full stack web3 developar olmak.
