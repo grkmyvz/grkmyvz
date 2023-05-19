@@ -1,13 +1,11 @@
-# Görkem YAVUZ Kimdir ?
+# Hi, my name is Görkem.
+I am living Turkey. My age is 28. I am a mechatronics graduate. But i like write code and i am software developer.
+I am write Turkish text for blockchain. [Medium](https://medium.com/@gorkemyavuz "Medium")
 
-Merhabalar, benim adım Görkem. 27 Yaşındayım ve Kırklareli'de yaşıyorum. Lise eğitimimi Kırklareli Meslek Lisesi Elektrik-Elektronik ve Bakım Onarım bölümünde aldım. Üniversite eğitimimi Kırklareli Üniversitesi MYO Mekatronik bölümünde aldım. Yaklaşık üç yıl bu alanda çalıştım fakat yazılım alanına sürekli ilgim ve alakam vardı. Yıllarca yazılım ile hobi olarak ilgilendim. 2021 Yılında ise artık yazılım alanında kariyer yapmaya karar verdim ve üç yıl çalıştığım işimden istifa edip kendime yeni bir kariyer planı çizdim.
+[Twitter](https://twitter.com/ygorkem0 "Twitter") - [LinkedIn](https://www.linkedin.com/in/gorkemyavuz/ "Linkedin")
 
-Artık blokzincir alanında ilerlemeye ve full stack web3 developer olmak için eğitimler alıp kendimi geliştirmeye çalışıyorum. Vakit buldukça medium sayfamda bigilerimi aktarmak için yazılar yazıyorum. Bu yazılara [buradan](https://medium.com/@gorkemyavuz "Medium Sayfam") ulaşabilirsiniz.
-
-Bana [Twitter](https://twitter.com/ygorkem0 "Twitter Hesabım") dan veya [LinkedIn](https://www.linkedin.com/in/gorkemyavuz/ "Linkedin Hesabım") den de ulaşabilirsiniz.
-
-### Daha Önce Kullandığım Diller ve Kütüphaneler
-_(Hepsine çok hakim değilim fakat kullandığım diller ve kütüphaneler)_
+### My use languages and libraries
+_(But i am not professional. Only languages and libraries I've used before)_
 
 - HTML & CSS
    * Bootstrap
