@@ -1,30 +1,27 @@
-# Hi, my name is Görkem.
+# Hi there, I'm Görkem! 👋
 
-I am living Turkey. My age is 28.
-I am a mechatronics graduate. But i like write code and i am software developer.
+I am a passionate software developer from Turkey, with a background in mechatronics. While my education initially focused on mechatronics, I found my true calling in the world of software development. Currently, I am dedicated to becoming a full stack web3 developer, with a keen interest in both front-end and back-end development within the blockchain space.
 
-I am write Turkish text for blockchain. [Medium](https://medium.com/@gorkemyavuz "Medium")
+## About Me
 
-[Twitter](https://twitter.com/ygorkem0 "Twitter") - [LinkedIn](https://www.linkedin.com/in/gorkemyavuz/ "Linkedin")
+-  Mechatronics graduate from Kırklareli University.
+-  Enthusiastic about software development since high school.
+-  Always eager to learn new technologies and improve my skill set.
+-  My native language Turkish. My english level is B1
 
-### My use languages and libraries
-_(But i am not professional. Only languages and libraries I've used before)_
+## Get in Touch
 
-- HTML & CSS
-   * Bootstrap
-- Javascript
-   * ReactJS
-   * NodeJS
-   * Ethers
-   * RestAPI
-   * SocketIO
-- Python
-   * Web3
-   * Selenium
-- SQL
-   * MS SQL
-   * PostgreSQL
-   * MySQL
-- Solidity
-   * ERC20
-   * ERC721
+- Check out my articles on [Medium](https://medium.com/@gorkemyavuz).
+- Connect with me on [Twitter](https://twitter.com/ygorkem0) and [LinkedIn](https://www.linkedin.com/in/gorkemyavuz/).
+
+## Languages and Technologies
+
+Languages and technologies I have experience with include:
+
+- HTML & CSS (including Bootstrap)
+- Javascript (Typescript, ReactJS, NodeJS, Ethers, RestAPI, SocketIO, GraphQL (With Relay), IndexedDB, ChakraUI)
+- Python (Web3, Selenium)
+- SQL (MySQL, SQLite)
+- Solidity (Remix, Foundry, Hardhat, MerkleTree, ERC20, ERC721)
+
+Feel free to reach out if you have any interesting opportunities or projects to discuss!
